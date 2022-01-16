@@ -6,4 +6,4 @@ function b (){
 }
 
 b();
-console.log(a)
+console.log(a) 
